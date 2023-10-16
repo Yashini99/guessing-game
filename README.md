@@ -1,0 +1,3 @@
+# guessing-game
+
+A guessing game made using Python is an interactive program where the computer generates a random number or word, and the player's task is to guess what it is. The player provides input (guesses), and the program gives feedback, such as whether the guess is too high or too low (for numbers) or if it matches partially or completely (for words). The game continues until the player correctly guesses the answer or reaches a predefined limit of attempts. It's a fun and engaging way to practice programming skills, often involving loops, conditionals, and random number generation in Python.
